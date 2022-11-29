@@ -28,7 +28,7 @@ python app.py
 
 # Frontend
 ```
-cd frontend/robosave
+cd frontend/ljps
 npm install # if first time installation
 npm start
 ```
